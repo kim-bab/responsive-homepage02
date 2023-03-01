@@ -25,9 +25,6 @@ const menuSpanOne = document.querySelectorAll('.hamburger span');
           })
         }
       })
-      
-
-      console.log(getHref,getTarget);
     })
   })
 
