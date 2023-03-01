@@ -904,6 +904,9 @@ body {
     max-width: 1100px;
     text-align: left;
   }
+  .slide-desc h3 {
+    font-size: 110px;
+  }
   .slide-desc p {
     font-weight: 500;
     margin-top: 30px;
